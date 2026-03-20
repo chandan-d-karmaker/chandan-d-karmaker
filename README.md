@@ -43,7 +43,6 @@ I am currently developing several key projects that combine a robust backend wit
       <a href="https://github.com/chandan-d-karmaker/github-issue-tracker">Source Code</a> <br />
       <i>Manage, view, and organize repository issues efficiently.</i>
     </p>
-    <hr />
     <p>
       🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
       🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
