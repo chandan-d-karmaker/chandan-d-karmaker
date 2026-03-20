@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=5865F2&height=200&section=header&text=MERN%20STACK%20DEVELOPER&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20|%20CSE%20Student%20|%20Barishal,%20Bangladesh&descSize=20&descAlignY=65" width="100%" />
+<img src="https://ibb.co.com/d48Kw1zX" width="100%" />
 
 # Hello, I'm CHANDAN KARMAKER 👋
 
