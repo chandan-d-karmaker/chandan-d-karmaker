@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co.com/rGMBScHd"><img src="https://i.ibb.co.com/HDYcsxqh/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix.gif" alt="tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix" border="0" width="100%"></a>
 
-# Hello, I'm CHANDAN KARMAKER 👋
+# Hello, I'm CHANDAN KARMAKER👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=MERN+Stack+Developer;Building+Digital+Solutions;CSE+Student;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
 
