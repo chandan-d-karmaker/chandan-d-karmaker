@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ibb.co.com/d48Kw1zX"><img src="https://i.ibb.co.com/d48Kw1zX/itsmeshibintmz-Overview.jpg" alt="itsmeshibintmz-Overview" border="0" width="100%"></a>
+<a href="https://ibb.co.com/d48Kw1zX"><img src="https://i.ibb.co.com/d48Kw1zX/itsmeshibintmz-Overview.jpg" alt="itsmeshibintmz-Overview" border="0" height="50px" width="100%"></a>
 
 # Hello, I'm CHANDAN KARMAKER 👋
 
