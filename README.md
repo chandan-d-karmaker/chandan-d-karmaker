@@ -24,9 +24,9 @@ I am currently developing several key projects that combine a robust backend wit
   <img src="coder-bg.png" align="right" width="350" />
 
   <div align="left">
-    <h3>🚀 Featured Projects & Interests</h3>
+    <h3>Featured Projects & Interests</h3>
     <p>
-      <b>Main project: English Janala</b> — 
+      <b>English Janala</b> — 
       <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
       <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
       <i>A platform for effective English learning.</i>
