@@ -22,7 +22,7 @@ I am currently developing several key projects that combine a robust backend wit
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr>
-    <td width="70%" valign="top">
+    <td style="border: none;" width="70%" valign="top">
    <p>
     <b>Main project: English Janala</b> — 
     <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
@@ -51,8 +51,8 @@ I am currently developing several key projects that combine a robust backend wit
     🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
   </p>
 </td>
-    <td width="30%" align="center">
-      <img src="coder.png" width="100%" alt="Coder Illustration" />
+    <td style="border: none;" width="30%" align="center">
+      <img src="coder-bg.png" width="100%" alt="Coder Illustration" />
     </td>
   </tr>
 </table>
