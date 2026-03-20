@@ -34,5 +34,5 @@ I'm a passionate developer from Barishal, Bangladesh, focused on building scalab
 ### 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
 </div>
