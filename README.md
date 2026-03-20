@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=5865F2&height=200&section=header&text=MERN%20STACK%20DEVELOPER&fontSize=50&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20|%20CSE%20Student%20|%20Barishal,%20Bangladesh&descSize=20&descAlignY=65" width="100%" />
+
 # Hello, I'm CHANDAN KARMAKER 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=MERN+Stack+Developer;Building+Digital+Solutions;CSE+Student;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
