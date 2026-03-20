@@ -1,4 +1,4 @@
-# Hi there, I'm [CHANDAN KARMAKER] 👋
+# Hi there, I'm CHANDAN KARMAKER 👋
 
 ### 🚀 Full-Stack MERN Developer | CSE Student
 I'm a passionate developer from Barishal, Bangladesh, focused on building scalable web applications using the MERN stack. I love turning complex problems into simple, beautiful, and intuitive designs.
