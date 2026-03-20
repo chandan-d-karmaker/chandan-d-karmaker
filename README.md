@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://ibb.co.com/rGMBScHd"><img src="https://i.ibb.co.com/HDYcsxqh/tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix.gif" alt="tumblr-owi25v6u-Ao1r4gsiio1-1280-gif-1000-300-in-2024-Pixel-art-design-Pixel-art-background-Pix" border="0" width="100%"></a>
+<img src="./github-banner.gif" width="100%">
 
 # Hello, I'm CHANDAN KARMAKER👋
 
