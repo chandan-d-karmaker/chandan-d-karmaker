@@ -20,45 +20,38 @@ I am currently developing several key projects that combine a robust backend wit
 </div>
 
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="border: none;" width="70%" valign="top">
-   <p>
-    <b>Main project: English Janala</b> — 
-    <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
-    <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
-    <i>A platform for effective English learning.</i>
-  </p>
+<div align="center">
+  <img src="coder-bg.png" align="right" width="350" />
 
-  <p>
-    <b>Job Application Tracker</b> — 
-    <a href="https://chandan-d-karmaker.github.io/job-application-tracker/">Live Demo</a> | 
-    <a href="https://github.com/chandan-d-karmaker/job-application-tracker">Source Code</a> <br />
-    <i>Managing career workflows and applications.</i>
-  </p>
+  <div align="left">
+    <h3>🚀 Featured Projects & Interests</h3>
+    <p>
+      <b>Main project: English Janala</b> — 
+      <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
+      <i>A platform for effective English learning.</i>
+    </p>
+    <p>
+      <b>Job Application Tracker</b> — 
+      <a href="https://chandan-d-karmaker.github.io/job-application-tracker/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/job-application-tracker">Source Code</a> <br />
+      <i>Managing career workflows and applications.</i>
+    </p>
+    <p>
+      <b>GitHub Issue Tracker</b> — 
+      <a href="https://chandan-d-karmaker.github.io/github-issue-tracker/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/github-issue-tracker">Source Code</a> <br />
+      <i>Manage, view, and organize repository issues efficiently.</i>
+    </p>
+    <hr />
+    <p>
+      🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
+      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
+    </p>
+  </div>
+</div>
 
-  <p>
-    <b>GitHub Issue Tracker</b> — 
-    <a href="https://chandan-d-karmaker.github.io/github-issue-tracker/">Live Demo</a> | 
-    <a href="https://github.com/chandan-d-karmaker/github-issue-tracker">Source Code</a> <br />
-    <i>Manage, view, and organize repository issues efficiently.</i>
-  </p>
-
-  <hr />
-
-  <p>
-    🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
-    🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
-  </p>
-</td>
-    <td style="border: none;" width="30%" align="center">
-      <img src="coder-bg.png" width="100%" alt="Coder Illustration" />
-    </td>
-  </tr>
-</table>
-
-
-
+<br clear="right" />
 
 
 <div align="center">
