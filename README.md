@@ -23,14 +23,34 @@ I am currently developing several key projects that combine a robust backend wit
 <table border="0">
   <tr>
     <td width="70%" valign="top">
-      <p>
-* 🚀 **Main project: English Janala** — [Live Demo](https://chandan-d-karmaker.github.io/english-janala/) | [Source Code](https://github.com/chandan-d-karmaker/english-janala) A platform for effective English learning.
-* 📋 **Job Application Tracker** — [Live Demo](https://chandan-d-karmaker.github.io/job-application-tracker/) | [Source Code](https://github.com/chandan-d-karmaker/job-application-tracker) Managing career workflows and applications.
-* 📋 **GitHub Issue Tracker** — [Live Demo](https://chandan-d-karmaker.github.io/github-issue-tracker/) | [Source Code](https://github.com/chandan-d-karmaker/github-issue-tracker) Manage, view, and organize repository issues efficiently.
-* 🛠️ **Technical interests**: System architecture, well-designed APIs, and Database optimization.
-* 🎨 **UI/UX**: Prototyping and modern interface design with Tailwind CSS and DaisyUI.
-      </p>
-    </td>
+   <p>
+    <b>Main project: English Janala</b> — 
+    <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
+    <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
+    <i>A platform for effective English learning.</i>
+  </p>
+
+  <p>
+    <b>Job Application Tracker</b> — 
+    <a href="https://chandan-d-karmaker.github.io/job-application-tracker/">Live Demo</a> | 
+    <a href="https://github.com/chandan-d-karmaker/job-application-tracker">Source Code</a> <br />
+    <i>Managing career workflows and applications.</i>
+  </p>
+
+  <p>
+    <b>GitHub Issue Tracker</b> — 
+    <a href="https://chandan-d-karmaker.github.io/github-issue-tracker/">Live Demo</a> | 
+    <a href="https://github.com/chandan-d-karmaker/github-issue-tracker">Source Code</a> <br />
+    <i>Manage, view, and organize repository issues efficiently.</i>
+  </p>
+
+  <hr />
+
+  <p>
+    🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
+    🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
+  </p>
+</td>
     <td width="30%" align="center">
       <img src="coder.png" width="100%" alt="Coder Illustration" />
     </td>
