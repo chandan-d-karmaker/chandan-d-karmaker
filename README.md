@@ -23,9 +23,11 @@ I am currently developing several key projects that combine a robust backend wit
 
 ---
 
-## 💻 Tech Stack
+
 
 <div align="center">
+
+## 💻 Tech Stack
 
 ### ◈ Front-end & Design
 ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,9 +43,10 @@ I am currently developing several key projects that combine a robust backend wit
 
 ---
 
-## 🌐 Contacts
+
 
 <div align="center">
+## 🌐 Contacts
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725361207741251665)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandankarmaker)
