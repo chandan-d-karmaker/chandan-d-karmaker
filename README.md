@@ -30,22 +30,16 @@ I am currently developing several key projects that combine a robust backend wit
 
 <div align="center">
 
-## 💻 Tech Stack
+## 💻 I've worked with these(+more):
 
-### ◈ Front-end & Design
-![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 
-### ◈ Back-end
-![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ◈ Infra & Tools
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
-
----
-
 
 
 <div align="center">
@@ -60,7 +54,6 @@ I am currently developing several key projects that combine a robust backend wit
 
 </div>
 
----
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
