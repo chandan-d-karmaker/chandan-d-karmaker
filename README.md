@@ -9,6 +9,8 @@
 
 </div>
 
+<div align="center">
+
 ## 💫 About me
 
 I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products.** I work from **back-end to interface**, always prioritizing clean architecture, code organization, and user experience. 
@@ -21,7 +23,8 @@ I am currently developing several key projects that combine a robust backend wit
 * 🛠️ **Technical interests**: System architecture, well-designed APIs, and Database optimization.
 * 🎨 **UI/UX**: Prototyping and modern interface design with Tailwind CSS and DaisyUI.
 
----
+
+</div>
 
 
 
@@ -46,6 +49,7 @@ I am currently developing several key projects that combine a robust backend wit
 
 
 <div align="center">
+  
 ## 🌐 Contacts
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725361207741251665)
