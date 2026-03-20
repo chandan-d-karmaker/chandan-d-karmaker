@@ -2,7 +2,7 @@
 
 # Hello, I'm CHANDAN KARMAKER 👋
 
-**Computer Science Student**
+## Computer Science Student
 
 Fullstack MERN Developer • Web • UI/UX  
 
