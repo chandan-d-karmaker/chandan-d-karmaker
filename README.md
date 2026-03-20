@@ -18,7 +18,6 @@ I'm a passionate developer from Barishal, Bangladesh, focused on building scalab
 
 ## 💻 I've worked with these (+more):
 
----
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -31,7 +30,6 @@ I'm a passionate developer from Barishal, Bangladesh, focused on building scalab
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
 ### 📊 My GitHub Stats:
 
