@@ -57,5 +57,5 @@ I am currently developing several key projects that combine a robust backend wit
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
-  <img src="./github-footer.gif" alt="notion-header-aesthetic" border="0" width="100%">
+  <img src="./github-footer.gif" width="100%">
 </div>
