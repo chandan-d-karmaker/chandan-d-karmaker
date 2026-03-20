@@ -20,7 +20,7 @@ I am currently developing several key projects that combine a robust backend wit
 </div>
 
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td width="70%" valign="top">
    <p>
