@@ -57,5 +57,5 @@ I am currently developing several key projects that combine a robust backend wit
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
-  <a href="https://ibb.co.com/WWNV7wqJ"><img src="https://i.ibb.co.com/7JxkB58m/notion-header-aesthetic.webp" alt="notion-header-aesthetic" border="0"></a>
+  <a href="https://ibb.co.com/WWNV7wqJ"><img src="https://i.ibb.co.com/7JxkB58m/notion-header-aesthetic.webp" alt="notion-header-aesthetic" border="0" width="100%"></a>
 </div>
