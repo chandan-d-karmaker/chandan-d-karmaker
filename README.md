@@ -17,8 +17,8 @@ I am a **Computer Science student** passionate about turning ideas into **solid,
 I am currently developing several key projects that combine a robust backend with modern frontend frameworks:
 
 * 🚀 **Main project: English Janala** — [Live Demo](https://chandan-d-karmaker.github.io/english-janala/) | [Source Code](https://github.com/chandan-d-karmaker/english-janala) A platform for effective English learning.
-* 📋 **Job Application Tracker** — Managing career workflows and applications.
-* 📋 **GitHub Issue Tracker** — Manage, view, and organize repository issues efficiently.
+* 📋 **Job Application Tracker** — [Live Demo](https://chandan-d-karmaker.github.io/job-application-tracker/) | [Source Code](https://github.com/chandan-d-karmaker/job-application-tracker) Managing career workflows and applications.
+* 📋 **GitHub Issue Tracker** — [Live Demo](https://chandan-d-karmaker.github.io/job-application-tracker/) | [Source Code](https://github.com/chandan-d-karmaker/github-issue-tracker) Manage, view, and organize repository issues efficiently.
 * 🛠️ **Technical interests**: System architecture, well-designed APIs, and Database optimization.
 * 🎨 **UI/UX**: Prototyping and modern interface design with Tailwind CSS and DaisyUI.
 
