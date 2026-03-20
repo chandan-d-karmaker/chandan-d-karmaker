@@ -3,6 +3,7 @@
 # Hello, I'm CHANDAN KARMAKER 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=MERN+Stack+Developer;Building+Digital+Solutions;CSE+Student;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
+
 ---
 
 </div>
