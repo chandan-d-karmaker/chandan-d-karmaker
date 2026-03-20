@@ -39,7 +39,7 @@ I'm a passionate developer from Barishal, Bangladesh, focused on building scalab
 
 ### 📫 How to reach me:
 
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/chandankarmaker)
+- **LinkedIn:** [linkedin.com/in/chandanDkarmaker](https://linkedin.com/in/chandankarmaker)
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 - **Email:** chandankarmker555@gmail.com
 
