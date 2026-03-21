@@ -83,6 +83,8 @@ I am currently developing several key projects that combine a robust backend wit
 
 
 <div align="center">
+    ![](https://nirzak-streak-stats.vercel.app/?user=chandan-d-karmaker&theme=dark&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
   <img src="./berserk-banner.gif" width="100%">
 </div>
