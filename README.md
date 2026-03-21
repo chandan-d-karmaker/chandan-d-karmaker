@@ -86,7 +86,6 @@ I am currently developing several key projects that combine a robust backend wit
    <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=chandan-d-karmaker&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
