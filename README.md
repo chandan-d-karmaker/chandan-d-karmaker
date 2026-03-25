@@ -82,11 +82,11 @@ I am currently developing several key projects that combine a robust backend wit
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
    <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=chandan-d-karmaker&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-</div>
+</div> -->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
   <img src="./berserk-banner.gif" width="100%">
