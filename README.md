@@ -84,7 +84,7 @@ I am currently developing several key projects that combine a robust backend wit
 
 <div align="center">
    <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chandan-d-karmaker&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=chandan-d-karmaker&theme=dark&hide_border=false" />
   <br/>
 </div>
 
