@@ -21,7 +21,7 @@ I am currently developing several key projects that combine a robust backend wit
 
 
 <div align="center">
-  <img src="gutss.png" align="right" width="350" />
+  <img src="oeeae-cat.gif" align="right" width="350" />
 
   <div align="left">
     <h3>Featured Projects & Interests</h3>
