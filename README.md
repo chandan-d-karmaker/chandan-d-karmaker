@@ -2,14 +2,14 @@
 
 <img src="./banner-github-txt.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=Hello+.+.+.;Nice+to+meet+you!;MERN+Stack+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=Hello+.+.+.;Nice+to+meet+you!;I'm+a+MERN+Stack+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
 
 
 </div>
 
 <div align="center">
 
-## 💫 About me
+##  About me
 
 I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products.** I work from **back-end to interface**, always prioritizing clean architecture, code organization, and user experience. 
 
@@ -60,7 +60,7 @@ I am currently developing several key projects that combine a robust backend wit
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
@@ -70,7 +70,7 @@ I am currently developing several key projects that combine a robust backend wit
 <div align="center">
   
 ## 🌐 Contacts
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandankarmaker555@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725361207741251665)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandankarmaker)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ckaditya202/)
