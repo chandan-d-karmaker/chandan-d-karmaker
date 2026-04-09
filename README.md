@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-github.gif" width="100%">
+<img src="./banner-github-txt.gif" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=Hello+.+.+.;Nice+to+meet+you!;MERN+Stack+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
 
@@ -19,9 +19,8 @@ I am currently developing several key projects that combine a robust backend wit
 
 
 <div align="center">
-  <img src="oeeae-cat.gif" align="right" width="350" />
-
-  <div align="left">
+  
+  <div align="center">
     <h3>Featured Projects & Interests</h3>
     <p>
       <b>English Janala</b> — 
@@ -43,7 +42,8 @@ I am currently developing several key projects that combine a robust backend wit
     </p>
     <p>
       🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
-      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
+      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI. <br />
+      🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/share/14Yr7xoibjK/">anime artwork here</a>
     </p>
   </div>
 </div>
