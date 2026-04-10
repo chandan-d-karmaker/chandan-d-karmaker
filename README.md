@@ -42,8 +42,9 @@ I am currently developing several key projects that combine a robust backend wit
     </p>
     <p>
       🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
-      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI. <br />
-      <br />
+      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
+    </p>
+    <p>
       🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/share/14Yr7xoibjK/">anime artwork here</a>
     </p>
   </div>
