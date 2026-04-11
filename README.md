@@ -48,6 +48,8 @@ I am currently developing several key projects that combine a robust backend wit
       🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/profile.php?id=61555913942661" target="_blank">ANIME ARTWORK HERE</a>
     </p>
   </div>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=chandan-d-karmaker&color=blue&style=for-the-badge)
 </div>
 
 <br clear="right" />
