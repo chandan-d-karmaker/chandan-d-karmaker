@@ -45,7 +45,7 @@ I am currently developing several key projects that combine a robust backend wit
       🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
     </p>
     <p>
-      🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/share/14Yr7xoibjK/">anime artwork here</a>
+      🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/share/14Yr7xoibjK/">ANIME ARTWORK HERE</a>
     </p>
   </div>
 </div>
