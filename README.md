@@ -7,13 +7,20 @@
 
 </div>
 
-<div align="center">
+<div>
 
 ##  About me
 
-I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products.** I work from **back-end to interface**, always prioritizing clean architecture, code organization, and user experience. 
-
-I am currently developing several key projects that combine a robust backend with modern frontend frameworks:
+```bash
+const dev = {
+  name: "Chandan Karmaker",
+  role: "Frontend Developer",
+  education: "B.Sc. in Computer Science & Engineering"
+  currentFocus: "Being Full Stack Web Developer",
+  hobbies: ["Reading Manga", "Watching Anime", "Gaming"],
+  coffeeLine: "Converted to code at a 1:1 ratio"
+};
+```
 
 </div>
 
