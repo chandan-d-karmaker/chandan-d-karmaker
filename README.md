@@ -36,16 +36,16 @@ const dev = {
       <i>A platform for effective English learning.</i>
     </p>
     <p>
-      <b>Job Application Tracker</b> — 
-      <a href="https://chandan-d-karmaker.github.io/job-application-tracker/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/job-application-tracker">Source Code</a> <br />
-      <i>Managing career workflows and applications.</i>
+      <b>KeenKeeper</b> — 
+      <a href="https://kinkeeper-ck.vercel.app/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/digitools">Source Code</a> <br />
+      <i>Keep Your Relationships Alive</i>
     </p>
     <p>
-      <b>GitHub Issue Tracker</b> — 
-      <a href="https://chandan-d-karmaker.github.io/github-issue-tracker/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/github-issue-tracker">Source Code</a> <br />
-      <i>Manage, view, and organize repository issues efficiently.</i>
+      <b>Book Vibe</b> — 
+      <a href="https://book-worm.pages.dev/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/book-worm">Source Code</a> <br />
+      <i>For book enthusiasts to discover, track, and manage their reading lists..</i>
     </p>
     <p>
       🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
