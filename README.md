@@ -36,10 +36,10 @@ const dev = {
       <i>A platform for effective English learning.</i>
     </p>
     <p>
-      <b>KeenKeeper</b> — 
-      <a href="https://kinkeeper-ck.vercel.app/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/digitools">Source Code</a> <br />
-      <i>Keep Your Relationships Alive</i>
+      <b>Mediqueue</b> — 
+      <a href="https://mediqueue-client-ck.vercel.app/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/mediqueue-client">Source Code</a> <br />
+      <i>Keep Your Tutors Tracked</i>
     </p>
     <p>
       <b>Book Vibe</b> — 
@@ -67,7 +67,7 @@ const dev = {
 ## 💻 I've worked with these(+more):
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![daisyUI](https://img.shields.io/badge/daisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![daisyUI](https://img.shields.io/badge/daisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white) 
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
