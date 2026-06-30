@@ -14,9 +14,9 @@
 ```bash
 const dev = {
   name: "Chandan Karmaker",
-  role: "Frontend Developer",
+  role: "Full Stack Developer",
   education: "B.Sc. in Computer Science & Engineering"
-  currentFocus: "Being Full Stack Web Developer",
+  currentFocus: "Being Better Full Stack Web Developer",
   hobbies: ["Reading Manga", "Watching Anime", "Gaming"],
   coffeeLine: "Converted to code at a 1:1 ratio"
 };
