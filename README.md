@@ -30,22 +30,22 @@ const dev = {
   <div align="center">
     <h3>Featured Projects & Interests</h3>
     <p>
-      <b>English Janala</b> — 
-      <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
-      <i>A platform for effective English learning.</i>
-    </p>
-    <p>
       <b>Mediqueue</b> — 
       <a href="https://mediqueue-client-ck.vercel.app/">Live Demo</a> | 
       <a href="https://github.com/chandan-d-karmaker/mediqueue-client">Source Code</a> <br />
       <i>Keep Your Tutors Tracked</i>
     </p>
-    <p>
-      <b>Book Vibe</b> — 
-      <a href="https://book-worm.pages.dev/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/book-worm">Source Code</a> <br />
-      <i>For book enthusiasts to discover, track, and manage their reading lists..</i>
+     <p>
+      <b>Fable</b> — 
+      <a href="[https://chandan-d-karmaker.github.io/english-janala/](https://fable-client-psi.vercel.app/)">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/fable-client">Source Code</a> <br />
+      <i>Ebook Sharing Platform.</i>
+    </p>
+     <p>
+      <b>English Janala</b> — 
+      <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
+      <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
+      <i>A platform for effective English learning.</i>
     </p>
     <p>
       🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
