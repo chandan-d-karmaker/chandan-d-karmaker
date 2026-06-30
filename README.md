@@ -37,7 +37,7 @@ const dev = {
     </p>
      <p>
       <b>Fable</b> — 
-      <a href="[https://chandan-d-karmaker.github.io/english-janala/](https://fable-client-psi.vercel.app/)">Live Demo</a> | 
+      <a href="https://fable-client-psi.vercel.app/">Live Demo</a> | 
       <a href="https://github.com/chandan-d-karmaker/fable-client">Source Code</a> <br />
       <i>Ebook Sharing Platform.</i>
     </p>
