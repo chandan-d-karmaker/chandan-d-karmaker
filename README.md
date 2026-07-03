@@ -2,103 +2,194 @@
 
 <img src="./github-top-banner.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=535&lines=Hello+.+.+.;Nice+to+meet+you!;I'm+a+MERN+Stack+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Code" alt="MERN Stack Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello+.+.+.;Nice+to+meet+you!;I'm+Chandan+Karmaker;MERN+Stack+%7C+Full+Stack+Developer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
+<br/>
+
+[![B.Sc CSE](https://img.shields.io/badge/B.Sc-Computer%20Science%20%26%20Engineering-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](#)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chandan-d-karmaker&style=flat-square&color=8b5cf6&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/chandan-d-karmaker?style=flat-square&color=7c3aed&label=Followers)
+![Stars](https://img.shields.io/github/stars/chandan-d-karmaker?style=flat-square&color=6d28d9&label=Stars)
 
 </div>
 
-<div>
+---
 
-##  About me
+## 🧬 About Me
 
 ```bash
 const dev = {
   name: "Chandan Karmaker",
-  role: "Full Stack Developer",
-  education: "B.Sc. in Computer Science & Engineering"
-  currentFocus: "Being Better Full Stack Web Developer",
-  hobbies: ["Reading Manga", "Watching Anime", "Gaming"],
+  role: "Full Stack Developer (MERN)",
+  education: "B.Sc. in Computer Science & Engineering",
+  currentFocus: "Becoming a better full stack web developer",
+  hobbies: ["Reading Manga", "Watching Anime", "Gaming", "Sketching"],
   coffeeLine: "Converted to code at a 1:1 ratio"
 };
 ```
 
-</div>
+I'm a **Full Stack Developer** working primarily with the **MERN stack**, focused on building clean, functional, and well-architected web applications — from responsive frontends to robust backend APIs. I care about **system architecture**, **well-designed APIs**, and **database optimization**, and enjoy shaping interfaces with **Tailwind CSS** and **DaisyUI** (sometims **HeroUI**).
 
-
-<div align="center">
-  
-  <div align="center">
-    <h3>Featured Projects & Interests</h3>
-    <p>
-      <b>Mediqueue</b> — 
-      <a href="https://mediqueue-client-ck.vercel.app/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/mediqueue-client">Source Code</a> <br />
-      <i>Keep Your Tutors Tracked</i>
-    </p>
-     <p>
-      <b>Fable</b> — 
-      <a href="https://fable-client-psi.vercel.app/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/fable-client">Source Code</a> <br />
-      <i>Ebook Sharing Platform.</i>
-    </p>
-     <p>
-      <b>English Janala</b> — 
-      <a href="https://chandan-d-karmaker.github.io/english-janala/">Live Demo</a> | 
-      <a href="https://github.com/chandan-d-karmaker/english-janala">Source Code</a> <br />
-      <i>A platform for effective English learning.</i>
-    </p>
-    <p>
-      🛠️ <b>Technical interests:</b> System architecture, well-designed APIs, and Database optimization. <br />
-      🎨 <b>UI/UX:</b> Prototyping and modern interface design with Tailwind CSS and DaisyUI.
-    </p>
-    <p>
-      🖼️ <b>Sketch: </b> Check out some of my  <a href="https://www.facebook.com/profile.php?id=61555913942661" target="_blank">ANIME ARTWORK HERE</a>
-    </p>
-  </div>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=chandan-d-karmaker&color=blue&style=for-the-badge)
-</div>
-
-<br clear="right" />
-
+Outside of code, I spend my time reading manga, watching anime, gaming, and sketching anime artwork.
 
 <div align="center">
 
-## 💻 I've worked with these(+more):
+### 🎯 Open To
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![daisyUI](https://img.shields.io/badge/daisyUI-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/VERCEL-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Open To](https://img.shields.io/badge/Open%20To-Full%20Stack%20Roles-6D28D9?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Frontend%20Engineering-7C3AED?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Freelance%20Projects-8B5CF6?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Collaboration-A78BFA?style=flat-square)
 
 </div>
 
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+ ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![C++](https://skillicons.dev/icons?i=cpp) 
+ ![C](https://skillicons.dev/icons?i=c)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Backend & Databases**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Postman](https://skillicons.dev/icons?i=postman) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Cloud, DevOps & Tooling**
+
+![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) ![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Mediqueue — Keep Your Tutors Tracked</b></summary>
+<br/>
+
+A platform designed to help track tutors efficiently, streamlining scheduling and management workflows.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, Tailwind CSS, Node.js, Express, MongoDB |
+| **Description** | Keep Your Tutors Tracked |
+| **Live Demo** | [mediqueue-client-ck.vercel.app](https://mediqueue-client-ck.vercel.app/) |
+| **Repository** | [View Source](https://github.com/chandan-d-karmaker/mediqueue-client) |
+
+</details>
+
+<details>
+<summary><b>🔹 Fable — Ebook Sharing Platform</b></summary>
+<br/>
+
+An ebook sharing platform that lets users discover, share, and manage digital reading content.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React, Tailwind CSS, Node.js, Express, MongoDB |
+| **Description** | Ebook Sharing Platform |
+| **Live Demo** | [fable-client-psi.vercel.app](https://fable-client-psi.vercel.app/) |
+| **Repository** | [View Source](https://github.com/chandan-d-karmaker/fable-client) |
+
+</details>
+
+<details>
+<summary><b>🔹 English Janala — Effective English Learning Platform</b></summary>
+<br/>
+
+A platform built to support effective and structured English learning.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | HTML5, CSS3, JavaScript |
+| **Description** | A platform for effective English learning |
+| **Live Demo** | [chandan-d-karmaker.github.io/english-janala](https://chandan-d-karmaker.github.io/english-janala/) |
+| **Repository** | [View Source](https://github.com/chandan-d-karmaker/english-janala) |
+
+</details>
+
+---
+
+## 🎨 Beyond Code
+
+🛠️ **Technical interests:** System architecture, well-designed APIs, and database optimization.
+<br/>
+🎨 **UI/UX:** Prototyping and modern interface design with Tailwind CSS and DaisyUI.
+<br/>
+🖼️ **Sketch:** Check out some of my anime artwork on [Facebook](https://www.facebook.com/profile.php?id=61555913942661).
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-  
-## 🌐 Contacts
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandankarmaker555@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725361207741251665)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandankarmaker)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ckaditya202/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/chandank202)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/chandanDkarmaker/)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandan-d-karmaker)
+[![Discord](https://img.shields.io/badge/Discord-4338CA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/725361207741251665)
 
 </div>
 
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-   <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=chandan-d-karmaker&theme=dark&hide_border=false" />
-  <br/>
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandan-d-karmaker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/> -->
+
+<img src="https://streak-stats.demolab.com/?user=chandan-d-karmaker&theme=dark&hide_border=false&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+
 </div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
-  <img src="./berserk-banner.gif" width="100%">
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan-d-karmaker&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🔭 Current Focus
+
+```yaml
+learning:
+  - Advanced React patterns and Next.js architecture
+  - Backend system design and API best practices
+building:
+  - Full stack MERN projects with polished UI/UX
+  - Personal tools and open source experiments
+exploring:
+  - Database optimization techniques
+  - Modern UI design with Tailwind CSS and DaisyUI
+open_to:
+  - Full time Full Stack Developer roles
+  - Freelance and collaborative projects
+```
+
+---
+
+<div align="center">
+
+<!-- *"Converted coffee to code at a 1:1 ratio."* -->
+
+<img src="./berserk-banner.gif" width="100%">
+
 </div>
