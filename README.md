@@ -52,7 +52,7 @@ Outside of code, I spend my time reading manga, watching anime, gaming, and sket
 
 **Languages**
 
- ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![C++](https://skillicons.dev/icons?i=cpp) 
+ ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) 
  ![C](https://skillicons.dev/icons?i=c)
 
 **Frontend**
@@ -61,7 +61,7 @@ Outside of code, I spend my time reading manga, watching anime, gaming, and sket
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Postman](https://skillicons.dev/icons?i=postman) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Postman](https://skillicons.dev/icons?i=postman) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 **Cloud, DevOps & Tooling**
 
