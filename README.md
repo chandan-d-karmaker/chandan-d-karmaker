@@ -40,7 +40,7 @@ Outside of code, I spend my time reading manga, watching anime, gaming, and sket
 ### 🎯 Open To
 
 ![Open To](https://img.shields.io/badge/Open%20To-Full%20Stack%20Roles-6D28D9?style=flat-square)
-![Open To](https://img.shields.io/badge/Open%20To-Frontend%20Engineering-7C3AED?style=flat-square)
+![Open To](https://img.shields.io/badge/Open%20To-Frontend%20Design-7C3AED?style=flat-square)
 ![Open To](https://img.shields.io/badge/Open%20To-Freelance%20Projects-8B5CF6?style=flat-square)
 ![Open To](https://img.shields.io/badge/Open%20To-Collaboration-A78BFA?style=flat-square)
 
