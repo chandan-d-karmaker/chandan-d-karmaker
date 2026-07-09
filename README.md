@@ -190,6 +190,6 @@ open_to:
 
 <!-- *"Converted coffee to code at a 1:1 ratio."* -->
 
-<img src="./berserk-banner.gif" width="100%">
+<!-- <img src="./berserk-banner.gif" width="100%"> -->
 
 </div>
