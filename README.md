@@ -151,7 +151,7 @@ A platform built to support effective and structured English learning.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-d-karmaker&theme=dark&hide_border=false&title_color=8B5CF6&text_color=ffffff&bg_color=0D1117&layout=donut&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com/?user=chandan-d-karmaker&theme=dark&hide_border=false&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
