@@ -23,7 +23,7 @@
 ```bash
 const dev = {
   name: "Chandan Karmaker",
-  role: "Full Stack Developer (MERN)",
+  role: "Full Stack Web Developer (MERN)",
   education: "B.Sc. in Computer Science & Engineering",
   currentFocus: "Becoming a better full stack web developer",
   hobbies: ["Reading Manga", "Watching Anime", "Gaming", "Sketching"],
