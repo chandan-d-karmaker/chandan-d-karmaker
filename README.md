@@ -2,7 +2,7 @@
 
 <img src="./github-top-banner.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello+.+.+.;Nice+to+meet+you!;I'm+Chandan+Karmaker;MERN+Stack+%7C+Full+Stack+Developer;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello+.+.+.;Nice+to+meet+you!;I'm+Chandan+Karmaker;Full+Stack+Developer;Turning+Ideas+Into+Code" alt="Typing SVG" />
 
 <br/>
 
